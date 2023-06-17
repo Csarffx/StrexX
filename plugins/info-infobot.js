@@ -21,7 +21,7 @@ let speed = neww - old
 let info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
-╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *Geral*
+╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 *
 ╠➥ [#️⃣] 𝙽𝚄𝙼𝙴𝚁𝙾: *+51 935 7630 050*
 ╠➥ [🎳] 𝙿𝚁𝙴𝙵𝙸𝙹𝙾: *${usedPrefix}*
 ╠➥ [🔐] 𝙲𝙷𝙰𝚃𝚂 𝙿𝚁𝙸𝚅𝙰𝙳𝙾𝚂: *${chats.length - groups.length}*
@@ -40,7 +40,7 @@ let info = `
 ╠➥ [👨‍🦯] 𝚅𝙴𝙻𝙾𝙲𝙸𝙳𝙰𝙳: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭   〙 ═
+╠═〘 𝐆𝐢𝐚𝐧𝐚 𝐁𝐨𝐭 〙 ═
 `.trim() 
 let aa = { quoted: m, userJid: conn.user.jid }
 let res = generateWAMessageFromContent (m.chat, {liveLocationMessage: {degreesLatitude: 0, degreesLongitude: 0, caption: info, secuenceNumber: "0", contextInfo: {mentionedJid: conn.parseMention()}}}, aa)
