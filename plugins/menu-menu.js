@@ -20,13 +20,13 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐆𝐢𝐚𝐧𝐚 𝐁𝐨𝐭* —◉
+║    ◉— *𝐂𝐬𝐚𝐫𝐟𝐟𝐱 𝐁𝐨𝐭* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* 𝐆𝐢𝐚𝐧𝐚 𝐁𝐨𝐭
-║➤ *Numero:* wa.me/51935763050
-║➤ *Bot ofc:* wa.me/51935763050
+║➤ *Owner:* 𝐂𝐬𝐚𝐫𝐟𝐟𝐱 𝐁𝐨𝐭
+║➤ *Numero:* wa.me/56922224359
+║➤ *Bot ofc:* wa.me/56922224359
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios:* ${rtotalreg}
